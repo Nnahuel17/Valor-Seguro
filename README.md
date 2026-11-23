@@ -1,24 +1,36 @@
 # Valor-Seguro
+
 Este es un análisis de cómo se relaciona la cantidad de delitos cercanos con el precio por m² de los departamentos en venta en CABA.
 
-## Qué hace el Actor
+**Dashboards:** [Análisis (Producto 1)](https://datastudio.google.com/reporting/18e12197-382c-44e0-9cc5-4c71a26c15ce) · [Decisiones (Producto 2)](https://www.appsheet.com/start/e560d7e1-6de9-431b-a222-6fc158604d1b)
+
+---
+
+## Producto 1: análisis de precio y delitos
+
+### Qué hace el Actor
 El Actor de Apify (`valor-seguro`) recibe una lista de avisos de Argenprop, los limpia y calcula cuántos delitos y robos hay a menos de 1 km de cada propiedad.
 
 - **ETL:** normalización de campos, embudo de filas, validaciones y filtro de outliers con z-score robusto.
 - **Cruce:** conteo de delitos y robos en un radio de 1 km usando `delitos_muestra.csv`.
 - **EDA:** resumen del lote y tabla por barrio, guardados en el key-value store.
 
-## Escenario de Make
+### Dashboard de análisis
+[Ver dashboard en Looker Studio](https://datastudio.google.com/reporting/18e12197-382c-44e0-9cc5-4c71a26c15ce)
+
+Incluye distribuciones de precio, superficie y delitos, avisos por zona de riesgo, la relación entre delitos y precio, y el mapa de avisos.
+
+### Escenario de Make
 ![Escenario en Make](captura_escenario.png.jpg)
 
 1. Scraper de Argenprop (Capital Federal)
 2. Lectura del dataset del scraper
 3. Lista de avisos (Array aggregator)
 4. Creación del JSON para el Actor
-5. Actor `valor-seguro` (ETL + EDA)
+5. Actor `valor-seguro` (ETL + EDA + inferencia)
 6. Lectura del resultado limpio
 
-## Última corrida
+### Última corrida
 | Paso del embudo | Filas |
 |---|---|
 | Entrada | 50 |
@@ -30,10 +42,12 @@ El Actor de Apify (`valor-seguro`) recibe una lista de avisos de Argenprop, los 
 | Precio por m² válido | 49 |
 | Sin errores groseros (\|z\| > 10) | 49 |
 
-## Limitaciones
+### Limitaciones
 - Solo se usan avisos de Capital Federal.
 - `zona_riesgo` (terciles de delitos) y `dist_centro_km` se calculan en el análisis, no en el Actor.
 - Superficie cubierta y baños vienen dentro de `DatosComunes_s`, y todavía no se extraen bien.
+
+---
 
 ## Producto 2: modelo de precio alto o bajo
 
@@ -52,3 +66,8 @@ El modelo de clasificación estima si el precio por m² de un aviso es **alto o 
 **Lectura de negocio:** de 198 avisos de prueba, el modelo marca 28 como "caro" o "barato para su zona". La lista a revisar se reduce en 86 %. Una marca es una señal para revisar, no una tasación.
 
 **Limitación:** los delitos aportan poco al AUC una vez que se conoce la ubicación (mejora de 0,011 en el mejor modelo).
+
+### Dashboard de decisiones
+[Ver dashboard en AppSheet](https://www.appsheet.com/start/e560d7e1-6de9-431b-a222-6fc158604d1b)
+
+![Dashboard de decisiones](captura_appsheet.png)
