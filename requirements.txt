@@ -1,0 +1,5 @@
+apify>=2.0
+pandas
+numpy
+scipy
+scikit-learn
