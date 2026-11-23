@@ -9,7 +9,7 @@ El Actor de Apify (`valor-seguro`) recibe una lista de avisos de Argenprop, los 
 - **EDA:** resumen del lote y tabla por barrio, guardados en el key-value store.
 
 ## Escenario de Make
-![Escenario en Make](captura_escenario.png)
+![Escenario en Make](captura_escenario.png.jpg)
 
 1. Scraper de Argenprop (Capital Federal)
 2. Lectura del dataset del scraper
