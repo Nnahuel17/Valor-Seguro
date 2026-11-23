@@ -34,3 +34,21 @@ El Actor de Apify (`valor-seguro`) recibe una lista de avisos de Argenprop, los 
 - Solo se usan avisos de Capital Federal.
 - `zona_riesgo` (terciles de delitos) y `dist_centro_km` se calculan en el análisis, no en el Actor.
 - Superficie cubierta y baños vienen dentro de `DatosComunes_s`, y todavía no se extraen bien.
+
+## Producto 2: modelo de precio alto o bajo
+
+El modelo de clasificación estima si el precio por m² de un aviso es **alto o bajo**, a partir de la ubicación, la seguridad de la zona y las características del departamento. El notebook está en `Producto2/Producto2_Inference_STARS.ipynb`, y el modelo guardado en `Producto2/modelo_precio_m2.pkl`.
+
+- **Target:** `precio_alto` (1 si el precio por m² es mayor que la mediana del entrenamiento, 2.313 USD/m²).
+- **Features (8):** lineales (`delitos_1km`, `robos_1km`, `banos`, `lat`, `lon`) y no lineales (`sup_total` con logaritmo, `ambientes` en tramos, `barrio` como categoría).
+- **Modelo elegido:** Random Forest, por el AUC de validación cruzada.
+
+| Métrica | Validación cruzada | Prueba |
+|---|---|---|
+| AUC | 0,789 | 0,761 (IC 95 %: 0,69 a 0,83) |
+| Exactitud | 0,72 | 0,657 |
+| F1 | 0,734 | 0,667 |
+
+**Lectura de negocio:** de 198 avisos de prueba, el modelo marca 28 como "caro" o "barato para su zona". La lista a revisar se reduce en 86 %. Una marca es una señal para revisar, no una tasación.
+
+**Limitación:** los delitos aportan poco al AUC una vez que se conoce la ubicación (mejora de 0,011 en el mejor modelo).
