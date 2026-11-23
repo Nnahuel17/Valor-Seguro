@@ -1,0 +1,199 @@
+﻿id_aviso,barrio,lat,lon,sup_total,ambientes,banos,delitos_1km,robos_1km,precio_m2_publicado,segmento_publicado,prob_precio_alto,segmento_esperado,evaluacion
+16661672,Villa Crespo,-34.6,-58.43,53.0,2.0,2.0,71,38,2641.51,Alto,0.52,Alto,En línea con su zona
+20874374,Villa del Parque,-34.6,-58.5,169.0,3.0,3.0,20,12,2100.59,Bajo,0.67,Alto,Barato para su zona
+20253613,Belgrano,-34.57,-58.46,40.0,2.0,1.0,34,16,2625.0,Alto,0.77,Alto,En línea con su zona
+19471708,Recoleta,-34.59,-58.39,115.0,2.0,1.0,49,24,1608.7,Bajo,0.64,Alto,En línea con su zona
+20290002,Almagro,-34.61,-58.41,104.0,4.0,3.0,80,37,1730.77,Bajo,0.13,Bajo,En línea con su zona
+20515116,Villa Pueyrredón,-34.59,-58.5,306.0,4.0,3.0,17,6,813.73,Bajo,0.55,Alto,En línea con su zona
+20435042,Flores,-34.63,-58.46,74.0,3.0,2.0,61,25,2162.16,Bajo,0.17,Bajo,En línea con su zona
+19324679,Recoleta,-34.59,-58.4,96.0,3.0,2.0,70,27,2031.25,Bajo,0.7,Alto,Barato para su zona
+19635623,Balvanera,-34.6,-58.4,27.0,1.0,1.0,122,38,3037.04,Alto,0.5,Bajo,En línea con su zona
+20302887,Caballito,-34.62,-58.44,50.0,2.0,1.0,56,22,1500.0,Bajo,0.19,Bajo,En línea con su zona
+19240550,Villa Crespo,-34.59,-58.44,40.0,1.0,1.0,50,25,2200.0,Bajo,0.57,Alto,En línea con su zona
+20481551,Villa Crespo,-34.6,-58.45,51.0,2.0,1.0,46,18,2431.37,Alto,0.54,Alto,En línea con su zona
+19662726,Belgrano,-34.56,-58.45,37.0,2.0,1.0,24,8,2972.97,Alto,0.84,Alto,En línea con su zona
+20825177,Almagro,-34.61,-58.42,112.0,4.0,1.0,57,29,1875.0,Bajo,0.13,Bajo,En línea con su zona
+20333627,Almagro,-34.62,-58.42,80.0,4.0,1.0,46,21,1243.75,Bajo,0.13,Bajo,En línea con su zona
+20823651,Monte Castro,-34.62,-58.5,35.0,1.0,1.0,19,12,1971.43,Bajo,0.35,Bajo,En línea con su zona
+20258532,Coghlan,-34.56,-58.47,90.0,3.0,1.0,16,10,2444.44,Alto,0.6,Alto,En línea con su zona
+19723287,Villa Crespo,-34.6,-58.43,159.0,5.0,3.0,58,30,2201.26,Bajo,0.56,Alto,En línea con su zona
+20754822,Palermo,-34.58,-58.42,92.0,4.0,2.0,60,32,2717.39,Alto,0.68,Alto,En línea con su zona
+20209659,Recoleta,-34.59,-58.41,76.0,4.0,1.0,69,28,2368.42,Alto,0.49,Bajo,En línea con su zona
+18748566,Almagro,-34.6,-58.42,69.0,2.0,2.0,72,34,2391.3,Alto,0.58,Alto,En línea con su zona
+20704329,Núñez,-34.55,-58.47,92.0,4.0,2.0,36,18,2445.65,Alto,0.68,Alto,En línea con su zona
+17538289,Belgrano,-34.56,-58.46,38.0,1.0,1.0,48,21,3157.89,Alto,0.77,Alto,En línea con su zona
+20412920,Caballito,-34.61,-58.43,40.53,2.0,1.0,40,18,2590.67,Alto,0.2,Bajo,Caro para su zona
+18500290,Recoleta,-34.59,-58.41,117.0,4.0,2.0,72,28,2042.74,Bajo,0.65,Alto,Barato para su zona
+20238249,Belgrano,-34.56,-58.45,33.0,2.0,1.0,38,14,2636.36,Alto,0.83,Alto,En línea con su zona
+19646893,Villa Luro,-34.64,-58.51,43.0,1.0,1.0,23,12,1604.65,Bajo,0.17,Bajo,En línea con su zona
+20478139,Villa Urquiza,-34.57,-58.49,53.0,3.0,1.0,28,16,3113.21,Alto,0.7,Alto,En línea con su zona
+20672361,Palermo,-34.59,-58.42,76.0,3.0,1.0,77,38,2736.84,Alto,0.47,Bajo,En línea con su zona
+16661333,Palermo,-34.59,-58.44,45.0,2.0,1.0,51,26,3015.56,Alto,0.71,Alto,En línea con su zona
+20850312,Coghlan,-34.56,-58.47,74.0,4.0,1.0,22,14,3986.49,Alto,0.53,Alto,En línea con su zona
+19373166,Villa del Parque,-34.61,-58.48,38.0,1.0,1.0,19,9,2052.63,Bajo,0.54,Alto,En línea con su zona
+19551057,Monserrat,-34.61,-58.39,21.0,1.0,1.0,110,38,2333.33,Alto,0.43,Bajo,En línea con su zona
+20388449,Barracas,-34.64,-58.37,63.0,3.0,1.0,37,16,2285.71,Bajo,0.05,Bajo,En línea con su zona
+20540286,Villa Urquiza,-34.58,-58.48,70.0,4.0,2.0,28,11,2700.0,Alto,0.78,Alto,En línea con su zona
+19917537,Belgrano,-34.56,-58.46,44.0,1.0,1.0,44,19,2727.27,Alto,0.88,Alto,En línea con su zona
+20239914,Belgrano,-34.56,-58.46,44.0,1.0,1.0,39,17,2159.09,Bajo,0.88,Alto,Barato para su zona
+20851655,Colegiales,-34.58,-58.44,54.0,1.0,1.0,44,21,1646.3,Bajo,0.65,Alto,En línea con su zona
+20368694,Villa Pueyrredón,-34.59,-58.5,71.0,3.0,1.0,20,7,2366.2,Alto,0.49,Bajo,En línea con su zona
+20648105,Retiro,-34.6,-58.38,169.0,4.0,2.0,87,39,1745.56,Bajo,0.33,Bajo,En línea con su zona
+20209604,Boedo,-34.62,-58.41,41.0,2.0,1.0,40,20,1463.41,Bajo,0.23,Bajo,En línea con su zona
+9070214,Palermo,-34.59,-58.42,87.0,4.0,2.0,72,26,3218.39,Alto,0.57,Alto,En línea con su zona
+20806216,Palermo,-34.58,-58.41,176.0,4.0,2.0,44,22,4602.27,Alto,0.84,Alto,En línea con su zona
+20524751,Barrio Norte,-34.58,-58.41,48.0,2.0,1.0,47,21,2291.67,Bajo,0.72,Alto,Barato para su zona
+20784261,Recoleta,-34.59,-58.41,25.0,1.0,1.0,71,27,2200.0,Bajo,0.66,Alto,Barato para su zona
+20727822,Villa Crespo,-34.59,-58.44,39.0,1.0,1.0,70,31,2176.92,Bajo,0.65,Alto,Barato para su zona
+19965362,Barracas,-34.65,-58.37,433.0,6.0,3.0,22,10,612.01,Bajo,0.33,Bajo,En línea con su zona
+19717118,Colegiales,-34.57,-58.45,72.0,3.0,1.0,35,17,2569.44,Alto,0.48,Bajo,En línea con su zona
+19821322,Liniers,-34.65,-58.52,47.0,2.0,1.0,13,8,2085.11,Bajo,0.26,Bajo,En línea con su zona
+20690585,Belgrano,-34.55,-58.46,53.0,3.0,1.0,50,20,3018.87,Alto,0.65,Alto,En línea con su zona
+20722485,Caballito,-34.63,-58.45,75.0,3.0,1.0,39,21,2920.0,Alto,0.44,Bajo,En línea con su zona
+18139946,Almagro,-34.6,-58.42,75.0,1.0,1.0,65,32,1093.33,Bajo,0.41,Bajo,En línea con su zona
+20323412,Belgrano,-34.56,-58.46,49.0,2.0,1.0,38,18,2244.9,Bajo,0.81,Alto,Barato para su zona
+19335901,San Nicolás,-34.6,-58.38,87.0,2.0,2.0,91,45,1597.7,Bajo,0.13,Bajo,En línea con su zona
+20513537,Villa Crespo,-34.59,-58.43,45.0,2.0,1.0,72,38,3333.33,Alto,0.4,Bajo,En línea con su zona
+20670343,Villa Urquiza,-34.57,-58.48,40.0,1.0,1.0,24,15,2950.0,Alto,0.8,Alto,En línea con su zona
+20572559,Barrio Norte,-34.59,-58.38,239.0,5.0,2.0,66,25,2824.27,Alto,0.52,Alto,En línea con su zona
+19957661,Belgrano,-34.57,-58.46,61.0,3.0,1.0,30,15,2934.43,Alto,0.57,Alto,En línea con su zona
+20825091,Belgrano,-34.57,-58.46,101.0,3.0,2.0,35,17,2475.25,Alto,0.69,Alto,En línea con su zona
+17936455,Barracas,-34.63,-58.38,68.0,2.0,2.0,77,46,2338.24,Alto,0.11,Bajo,Caro para su zona
+19101834,Centro,-34.6,-58.37,110.0,5.0,2.0,59,29,1163.64,Bajo,0.33,Bajo,En línea con su zona
+20704825,Villa Devoto,-34.61,-58.51,88.0,3.0,2.0,23,11,2761.36,Alto,0.48,Bajo,En línea con su zona
+20510439,Villa Luro,-34.64,-58.5,105.0,4.0,3.0,31,16,3038.1,Alto,0.36,Bajo,En línea con su zona
+20871455,Belgrano,-34.56,-58.46,57.0,2.0,2.0,36,19,2543.86,Alto,0.88,Alto,En línea con su zona
+20597739,Almagro,-34.6,-58.42,62.0,3.0,2.0,69,36,2967.74,Alto,0.31,Bajo,Caro para su zona
+19203168,Palermo,-34.6,-58.44,106.0,3.0,3.0,54,22,3207.55,Alto,0.55,Alto,En línea con su zona
+18024824,Balvanera,-34.61,-58.4,51.0,3.0,1.0,111,37,1705.88,Bajo,0.17,Bajo,En línea con su zona
+20724973,Coghlan,-34.56,-58.48,225.0,4.0,3.0,19,8,3955.56,Alto,0.65,Alto,En línea con su zona
+20032069,Barrio Norte,-34.6,-58.4,62.0,3.0,2.0,91,34,1927.42,Bajo,0.42,Bajo,En línea con su zona
+20762930,Caballito,-34.61,-58.43,27.11,1.0,1.0,43,17,2213.21,Bajo,0.21,Bajo,En línea con su zona
+15543042,Palermo,-34.56,-58.44,74.0,3.0,2.0,35,20,2405.41,Alto,0.8,Alto,En línea con su zona
+19174887,Balvanera,-34.6,-58.4,26.0,1.0,1.0,122,38,3192.31,Alto,0.5,Bajo,En línea con su zona
+20005281,Caballito,-34.62,-58.44,100.0,3.0,2.0,58,17,2350.0,Alto,0.32,Bajo,Caro para su zona
+19336817,Recoleta,-34.58,-58.4,117.0,4.0,3.0,43,17,2179.49,Bajo,0.61,Alto,En línea con su zona
+20850439,Villa del Parque,-34.61,-58.5,43.0,2.0,1.0,15,11,2069.77,Bajo,0.32,Bajo,En línea con su zona
+20456109,Belgrano,-34.56,-58.47,85.0,3.0,1.0,26,17,2141.18,Bajo,0.46,Bajo,En línea con su zona
+19671908,Barracas,-34.65,-58.38,87.0,3.0,1.0,19,9,1057.47,Bajo,0.19,Bajo,En línea con su zona
+16662052,Caballito,-34.63,-58.43,93.0,2.0,2.0,35,13,2096.77,Bajo,0.48,Bajo,En línea con su zona
+20711790,Belgrano,-34.57,-58.45,33.0,1.0,1.0,36,18,2393.94,Alto,0.83,Alto,En línea con su zona
+20326418,Barrio Norte,-34.6,-58.4,114.0,4.0,3.0,98,33,964.91,Bajo,0.15,Bajo,En línea con su zona
+20673313,Caballito,-34.62,-58.43,101.0,3.0,3.0,46,16,2029.7,Bajo,0.32,Bajo,En línea con su zona
+19261035,Palermo,-34.58,-58.43,55.0,2.0,1.0,56,29,3127.27,Alto,0.65,Alto,En línea con su zona
+20822572,Belgrano,-34.55,-58.46,60.0,3.0,2.0,36,17,2500.0,Alto,0.76,Alto,En línea con su zona
+20052595,San Cristóbal,-34.62,-58.4,59.0,2.0,1.0,40,24,1677.97,Bajo,0.2,Bajo,En línea con su zona
+20673948,Palermo,-34.58,-58.41,58.0,3.0,2.0,42,22,4137.93,Alto,0.71,Alto,En línea con su zona
+17900194,Barracas,-34.64,-58.37,63.0,3.0,1.0,37,16,2338.1,Alto,0.05,Bajo,Caro para su zona
+20825877,Saavedra,-34.56,-58.49,92.0,3.0,2.0,16,7,3255.43,Alto,0.85,Alto,En línea con su zona
+19581808,Belgrano,-34.56,-58.47,49.0,2.0,1.0,38,20,2755.1,Alto,0.7,Alto,En línea con su zona
+20699183,Belgrano,-34.56,-58.46,194.0,4.0,4.0,37,18,2989.69,Alto,0.5,Alto,En línea con su zona
+19557020,Recoleta,-34.6,-58.4,107.0,4.0,2.0,84,32,2663.55,Alto,0.23,Bajo,Caro para su zona
+20638726,Caballito,-34.63,-58.43,44.0,2.0,1.0,33,14,3068.18,Alto,0.36,Bajo,En línea con su zona
+18980043,Flores,-34.63,-58.47,67.0,3.0,1.0,58,20,1341.79,Bajo,0.07,Bajo,En línea con su zona
+20853977,Almagro,-34.6,-58.42,50.0,2.0,1.0,71,34,2500.0,Alto,0.29,Bajo,Caro para su zona
+16625224,Villa Crespo,-34.59,-58.44,68.0,3.0,2.0,52,22,3382.35,Alto,0.61,Alto,En línea con su zona
+20406798,Monserrat,-34.61,-58.37,40.0,2.0,1.0,79,44,1475.0,Bajo,0.08,Bajo,En línea con su zona
+20666625,Almagro,-34.61,-58.43,108.0,3.0,1.0,60,31,1064.81,Bajo,0.12,Bajo,En línea con su zona
+19347294,Recoleta,-34.59,-58.39,216.0,5.0,4.0,74,27,5972.22,Alto,0.52,Alto,En línea con su zona
+20323981,Villa Luro,-34.64,-58.51,67.0,3.0,1.0,29,17,2164.18,Bajo,0.17,Bajo,En línea con su zona
+20210119,Villa del Parque,-34.6,-58.48,68.0,3.0,1.0,12,7,2779.41,Alto,0.38,Bajo,En línea con su zona
+16350726,Caballito,-34.62,-58.46,33.0,2.0,1.0,55,24,2393.94,Alto,0.14,Bajo,Caro para su zona
+16787941,Palermo,-34.59,-58.42,84.0,2.0,2.0,81,43,2440.48,Alto,0.42,Bajo,En línea con su zona
+20724981,Saavedra,-34.56,-58.48,225.0,4.0,3.0,19,8,3955.56,Alto,0.7,Alto,En línea con su zona
+20362352,Villa Urquiza,-34.58,-58.49,46.0,2.0,1.0,23,9,3369.57,Alto,0.8,Alto,En línea con su zona
+19571759,Parque Chacabuco,-34.63,-58.44,114.0,4.0,3.0,35,20,2543.86,Alto,0.35,Bajo,Caro para su zona
+20462117,Palermo,-34.59,-58.41,189.0,4.0,4.0,73,31,2698.41,Alto,0.68,Alto,En línea con su zona
+20731029,Palermo,-34.58,-58.41,60.0,3.0,1.0,45,23,2666.67,Alto,0.6,Alto,En línea con su zona
+20571784,Colegiales,-34.57,-58.45,35.0,2.0,1.0,35,17,2271.43,Bajo,0.74,Alto,Barato para su zona
+20179939,Palermo,-34.59,-58.42,32.0,1.0,1.0,72,32,2031.25,Bajo,0.66,Alto,Barato para su zona
+19615263,Palermo,-34.57,-58.43,39.0,1.0,,27,9,3615.38,Alto,0.93,Alto,En línea con su zona
+20740168,Palermo,-34.57,-58.43,54.0,2.0,1.0,38,17,2574.07,Alto,0.77,Alto,En línea con su zona
+19982604,Almagro,-34.6,-58.42,87.0,4.0,2.0,66,33,1781.61,Bajo,0.25,Bajo,En línea con su zona
+20253533,Recoleta,-34.59,-58.39,133.0,4.0,3.0,33,19,2030.08,Bajo,0.68,Alto,Barato para su zona
+19022117,Palermo,-34.59,-58.43,28.0,1.0,1.0,84,44,3392.86,Alto,0.38,Bajo,En línea con su zona
+20738839,Belgrano,-34.56,-58.45,77.0,3.0,1.0,41,16,3116.88,Alto,0.62,Alto,En línea con su zona
+20479748,Almagro,-34.6,-58.42,58.0,3.0,1.0,69,34,1706.9,Bajo,0.19,Bajo,En línea con su zona
+20684046,San Telmo,-34.62,-58.37,42.0,2.0,1.0,70,37,1785.71,Bajo,0.14,Bajo,En línea con su zona
+20785627,Palermo,-34.58,-58.44,35.0,1.0,1.0,46,22,3428.57,Alto,0.85,Alto,En línea con su zona
+20521814,Monserrat,-34.62,-58.38,108.0,4.0,3.0,83,45,1296.3,Bajo,0.07,Bajo,En línea con su zona
+20457907,Almagro,-34.61,-58.42,70.0,4.0,1.0,69,31,1571.43,Bajo,0.12,Bajo,En línea con su zona
+20792311,Villa del Parque,-34.61,-58.5,89.0,3.0,2.0,19,13,2674.16,Alto,0.44,Bajo,En línea con su zona
+14843315,Villa del Parque,-34.6,-58.49,55.0,2.0,1.0,19,13,2272.73,Bajo,0.38,Bajo,En línea con su zona
+17475032,Almagro,-34.61,-58.42,55.0,3.0,1.0,60,25,2087.27,Bajo,0.17,Bajo,En línea con su zona
+20721870,Belgrano,-34.56,-58.45,52.0,3.0,1.0,43,17,3557.69,Alto,0.8,Alto,En línea con su zona
+20232458,Floresta,-34.63,-58.48,36.0,1.0,1.0,32,14,1611.11,Bajo,0.24,Bajo,En línea con su zona
+20854449,Belgrano,-34.56,-58.46,234.0,4.0,3.0,47,20,2987.18,Alto,0.61,Alto,En línea con su zona
+18339809,Villa del Parque,-34.61,-58.49,72.0,3.0,1.0,19,11,1666.67,Bajo,0.28,Bajo,En línea con su zona
+17407327,Flores,-34.63,-58.47,40.0,2.0,1.0,49,17,2222.5,Bajo,0.1,Bajo,En línea con su zona
+20648231,Retiro,-34.6,-58.38,22.0,1.0,1.0,79,34,2750.0,Alto,0.48,Bajo,En línea con su zona
+20220577,Balvanera,-34.6,-58.4,45.0,2.0,2.0,103,36,1488.89,Bajo,0.21,Bajo,En línea con su zona
+20680176,Villa Urquiza,-34.57,-58.49,79.0,3.0,2.0,26,13,2518.99,Alto,0.8,Alto,En línea con su zona
+20034378,Villa Devoto,-34.59,-58.51,102.0,4.0,2.0,33,12,2696.08,Alto,0.59,Alto,En línea con su zona
+20788635,Recoleta,-34.59,-58.4,31.0,1.0,1.0,64,24,2322.58,Alto,0.69,Alto,En línea con su zona
+19778635,Caballito,-34.63,-58.45,42.0,2.0,1.0,55,25,1880.95,Bajo,0.16,Bajo,En línea con su zona
+20187265,Boedo,-34.63,-58.42,78.0,4.0,,29,11,1717.95,Bajo,0.34,Bajo,En línea con su zona
+20600985,Villa Crespo,-34.6,-58.43,48.0,3.0,1.0,51,26,2500.0,Alto,0.41,Bajo,En línea con su zona
+20589322,San Cristóbal,-34.62,-58.4,40.0,2.0,1.0,72,36,1525.0,Bajo,0.12,Bajo,En línea con su zona
+19879973,Almagro,-34.6,-58.43,64.0,3.0,1.0,59,32,1640.62,Bajo,0.28,Bajo,En línea con su zona
+20371144,Palermo,-34.58,-58.43,75.0,4.0,2.0,46,23,2400.0,Alto,0.77,Alto,En línea con su zona
+20576172,Boedo,-34.62,-58.41,69.0,3.0,2.0,53,26,2971.01,Alto,0.32,Bajo,Caro para su zona
+20471702,Recoleta,-34.59,-58.39,82.0,3.0,2.0,43,21,3634.15,Alto,0.63,Alto,En línea con su zona
+20704826,Villa Devoto,-34.61,-58.51,77.0,3.0,2.0,23,11,2725.97,Alto,0.55,Alto,En línea con su zona
+20645942,Caballito,-34.63,-58.45,99.0,4.0,2.0,42,22,4090.91,Alto,0.46,Bajo,En línea con su zona
+20317968,Palermo,-34.58,-58.44,35.0,2.0,1.0,52,25,2857.14,Alto,0.71,Alto,En línea con su zona
+20748938,Núñez,-34.55,-58.47,66.0,3.0,2.0,32,14,2878.79,Alto,0.86,Alto,En línea con su zona
+18547995,Villa Devoto,-34.6,-58.52,117.0,3.0,2.0,26,11,5384.62,Alto,0.55,Alto,En línea con su zona
+20589823,Balvanera,-34.61,-58.41,39.0,2.0,1.0,103,42,1666.67,Bajo,0.05,Bajo,En línea con su zona
+20722075,Palermo,-34.59,-58.42,76.0,2.0,1.0,82,34,2353.95,Alto,0.46,Bajo,En línea con su zona
+19755402,Parque Chacabuco,-34.63,-58.43,57.0,3.0,1.0,33,16,1649.12,Bajo,0.22,Bajo,En línea con su zona
+19586935,Villa Devoto,-34.6,-58.5,59.0,2.0,1.0,19,9,3049.15,Alto,0.59,Alto,En línea con su zona
+20629873,Caballito,-34.62,-58.43,56.0,3.0,1.0,42,12,2607.14,Alto,0.35,Bajo,En línea con su zona
+20180283,Villa Crespo,-34.6,-58.44,122.0,6.0,2.0,50,27,2254.1,Bajo,0.66,Alto,Barato para su zona
+18890955,Palermo,-34.57,-58.44,42.0,2.0,,32,15,2023.81,Bajo,0.82,Alto,Barato para su zona
+19350536,Palermo,-34.59,-58.42,138.0,4.0,2.0,73,38,2536.23,Alto,0.45,Bajo,En línea con su zona
+8236289,Villa Devoto,-34.61,-58.51,27.0,1.0,1.0,24,11,2333.33,Alto,0.45,Bajo,En línea con su zona
+20214059,Almagro,-34.6,-58.42,41.0,2.0,1.0,61,28,1560.98,Bajo,0.42,Bajo,En línea con su zona
+20442294,Villa Urquiza,-34.57,-58.49,84.0,4.0,1.0,26,15,1666.67,Bajo,0.54,Alto,En línea con su zona
+20855780,Villa Crespo,-34.59,-58.44,31.0,1.0,1.0,50,25,2254.84,Bajo,0.53,Alto,En línea con su zona
+20255031,Barracas,-34.63,-58.37,78.0,4.0,1.0,70,37,1538.46,Bajo,0.08,Bajo,En línea con su zona
+20351960,Palermo,-34.6,-58.42,51.0,3.0,1.0,74,35,2725.49,Alto,0.51,Alto,En línea con su zona
+20601328,Caballito,-34.62,-58.45,79.0,3.0,2.0,53,24,3253.16,Alto,0.56,Alto,En línea con su zona
+20291147,Palermo,-34.58,-58.42,62.0,2.0,1.0,60,32,3177.42,Alto,0.54,Alto,En línea con su zona
+12129404,Caballito,-34.62,-58.43,102.0,4.0,2.0,43,14,2941.18,Alto,0.5,Alto,En línea con su zona
+17927719,Villa Urquiza,-34.57,-58.49,65.5,3.0,1.0,28,16,1984.73,Bajo,0.52,Alto,En línea con su zona
+20386916,Villa Urquiza,-34.57,-58.48,66.0,3.0,1.0,29,18,2121.21,Bajo,0.37,Bajo,En línea con su zona
+16990760,Barrio Norte,-34.59,-58.41,100.0,3.0,2.0,73,32,1799.0,Bajo,0.61,Alto,En línea con su zona
+20370169,Colegiales,-34.58,-58.44,55.0,2.0,1.0,43,20,3254.55,Alto,0.64,Alto,En línea con su zona
+20597742,Belgrano,-34.56,-58.46,122.0,4.0,4.0,45,20,3770.49,Alto,0.8,Alto,En línea con su zona
+20333085,Caballito,-34.63,-58.44,79.0,3.0,2.0,45,21,2151.9,Bajo,0.56,Alto,En línea con su zona
+17694689,Núñez,-34.54,-58.46,101.0,4.0,2.0,31,14,4455.45,Alto,0.71,Alto,En línea con su zona
+20412550,San Nicolás,-34.59,-58.39,37.0,3.0,1.0,50,27,2162.16,Bajo,0.64,Alto,En línea con su zona
+19749482,Villa Devoto,-34.6,-58.51,72.0,4.0,1.0,27,9,2736.11,Alto,0.47,Bajo,En línea con su zona
+19161969,Núñez,-34.55,-58.45,57.0,2.0,2.0,45,16,3859.65,Alto,0.89,Alto,En línea con su zona
+20422694,Villa del Parque,-34.61,-58.48,87.0,4.0,2.0,20,11,2011.49,Bajo,0.43,Bajo,En línea con su zona
+18468898,Villa Crespo,-34.6,-58.43,80.0,3.0,2.0,58,32,2125.0,Bajo,0.73,Alto,Barato para su zona
+19293504,Barrio Norte,-34.6,-58.41,38.0,1.0,1.0,75,28,2526.32,Alto,0.49,Bajo,En línea con su zona
+8415514,Recoleta,-34.6,-58.4,40.0,1.0,1.0,98,29,2875.0,Alto,0.29,Bajo,Caro para su zona
+19964059,Villa Luro,-34.63,-58.51,40.0,2.0,1.0,20,12,2500.0,Alto,0.15,Bajo,Caro para su zona
+20665199,Parque Patricios,-34.63,-58.4,52.0,3.0,1.0,37,22,1557.69,Bajo,0.28,Bajo,En línea con su zona
+20856765,Caballito,-34.63,-58.44,48.5,2.0,1.0,41,23,1917.53,Bajo,0.3,Bajo,En línea con su zona
+20641807,Palermo,-34.58,-58.41,111.0,4.0,1.0,65,27,3153.15,Alto,0.57,Alto,En línea con su zona
+19091637,Caballito,-34.62,-58.43,74.0,3.0,1.0,45,14,2500.0,Alto,0.32,Bajo,Caro para su zona
+20701743,Monserrat,-34.61,-58.38,74.0,1.0,,79,41,1283.78,Bajo,0.09,Bajo,En línea con su zona
+19813324,Caballito,-34.62,-58.43,34.0,1.0,,44,14,2117.65,Bajo,0.3,Bajo,En línea con su zona
+20398901,Villa Urquiza,-34.58,-58.48,66.0,3.0,1.0,14,8,3166.67,Alto,0.47,Bajo,En línea con su zona
+19215256,Retiro,-34.6,-58.38,22.0,1.0,1.0,79,34,2750.0,Alto,0.48,Bajo,En línea con su zona
+20500970,Balvanera,-34.6,-58.39,152.0,4.0,3.0,116,40,2269.74,Bajo,0.11,Bajo,En línea con su zona
+19070180,Almagro,-34.61,-58.42,33.0,1.0,1.0,48,17,2121.21,Bajo,0.23,Bajo,En línea con su zona
+17961411,Belgrano,-34.56,-58.45,195.0,5.0,3.0,42,15,4076.92,Alto,0.66,Alto,En línea con su zona
+19730935,Villa Crespo,-34.6,-58.43,64.0,3.0,1.0,59,31,1703.12,Bajo,0.32,Bajo,En línea con su zona
+16662050,Caballito,-34.63,-58.43,32.0,1.0,1.0,35,13,2656.25,Alto,0.34,Bajo,Caro para su zona
+20399449,Recoleta,-34.59,-58.41,180.0,4.0,3.0,67,25,2722.22,Alto,0.71,Alto,En línea con su zona
+19636454,Barracas,-34.64,-58.37,47.0,2.0,1.0,37,16,1574.47,Bajo,0.12,Bajo,En línea con su zona
+20592790,Abasto,-34.6,-58.41,56.0,3.0,1.0,89,38,1491.07,Bajo,0.12,Bajo,En línea con su zona
+20844848,Belgrano,-34.55,-58.46,50.0,2.0,1.0,54,21,2500.0,Alto,0.76,Alto,En línea con su zona
+20782621,Retiro,-34.6,-58.37,142.0,4.0,1.0,64,29,1514.08,Bajo,0.36,Bajo,En línea con su zona
+17739910,Caballito,-34.62,-58.44,54.0,3.0,1.0,53,17,1424.07,Bajo,0.14,Bajo,En línea con su zona
+20474875,Barrio Norte,-34.6,-58.4,98.0,4.0,4.0,97,31,2193.88,Bajo,0.2,Bajo,En línea con su zona
+20721679,Villa Urquiza,-34.57,-58.48,32.0,1.0,1.0,29,16,3093.75,Alto,0.61,Alto,En línea con su zona
