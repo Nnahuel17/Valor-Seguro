@@ -1,12 +1,11 @@
+import gzip
 import os
 import pickle
-import urllib.request
 
 import numpy as np
 import pandas as pd
 
-RUTA_MODELO = "modelo_precio_m2.pkl"
-URL_MODELO = "https://raw.githubusercontent.com/Nnahuel17/Valor-Seguro/main/Producto2/modelo_precio_m2.pkl"
+RUTA_MODELO = os.path.join(os.path.dirname(os.path.abspath(__file__)), "modelo_precio_m2.pkl.gz")
 _paquete = None
 
 
@@ -14,8 +13,10 @@ def cargar_paquete():
     global _paquete
     if _paquete is None:
         if not os.path.exists(RUTA_MODELO):
-            urllib.request.urlretrieve(URL_MODELO, RUTA_MODELO)
-        with open(RUTA_MODELO, "rb") as f:
+            raise FileNotFoundError(
+                f"Falta el modelo en {RUTA_MODELO}. Debe estar incluido en el Actor; no se descarga."
+            )
+        with gzip.open(RUTA_MODELO, "rb") as f:
             _paquete = pickle.load(f)
     return _paquete
 
