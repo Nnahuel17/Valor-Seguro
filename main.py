@@ -2,10 +2,11 @@ import asyncio
 import json
 
 from apify import Actor
-from inferencia import predecir_prob, evaluar
+
 from ETL import normalizar, limpiar
 from EDA import eda
 from tooling_business import cargar_arboles, agregar_delitos
+from inferencia import predecir_prob, evaluar
 
 
 async def main():
@@ -27,6 +28,7 @@ async def main():
 
         todos, robos = cargar_arboles()
         limpio = agregar_delitos(limpio, todos, robos)
+
         limpio = predecir_prob(limpio)
         limpio["evaluacion"] = evaluar(limpio)
 
